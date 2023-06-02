@@ -58,3 +58,14 @@ body {
     background-color: black;
     height: 1px;
 }
+
+.main1 {
+    min-height: auto;
+}
+
+.footer {
+    padding: 0.001%;
+    height: fit-content;
+    background-color: #ededef;
+    margin-bottom: 0;
+}
