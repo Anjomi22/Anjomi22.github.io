@@ -63,8 +63,11 @@ body {
 
 .main1 {
     min-height: auto;
-    max-width: 70%;
-    margin-left: 15%;
+    max-width: 60%;
+    margin-left: 20%;
+    font-size: x-large;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .footer {
